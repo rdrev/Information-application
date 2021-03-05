@@ -1,0 +1,48 @@
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\Информационое приложение.exe.config
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\Информационое приложение.exe
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\Информационое приложение.pdb
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\EntityFramework.dll
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\EntityFramework.xml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AuthorizPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\MainPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\MainWindow.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\RegistrationPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\App.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение_Content.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение_MarkupCompile.cache
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение_MarkupCompile.lref
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AuthorizPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\MainPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\MainWindow.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\RegistrationPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.g.resources
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое_приложение.Properties.Resources.resources
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.csproj.CopyComplete
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.exe
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\Информационое приложение.pdb
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddTaskPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddTaskPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\BeneathTaskPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\BeneathTaskPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\EmpPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\EmpPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddBeneathTaskPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddBeneathTaskPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddEmpPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\EmpLookPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddEmpPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\EmpLookPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\StatusLookPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\StatusLookPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddStatusPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddStatusPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddBranchPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\BranchLookPage.g.cs
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\AddBranchPage.baml
+C:\Users\Никита\source\repos\InformationApplication\Информационое приложение\obj\Debug\BranchLookPage.baml

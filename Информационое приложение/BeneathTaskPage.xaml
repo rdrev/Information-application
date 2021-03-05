@@ -1,0 +1,75 @@
+﻿<Page x:Class="Информационое_приложение.BeneathTaskPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Информационое_приложение"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BeneathTaskPage"
+      IsVisibleChanged="Page_IsVisibleChanged">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="GoBackBtn" 
+                    Content="Назад"
+                    Click="GoBackBtn_Click" 
+                    HorizontalAlignment="Left"
+                    Margin="5"/>
+            <Button x:Name="AddBeneathTaskBtn"
+                    Content="Добавить подзадачу"
+                    Click="AddBeneathTaskBtn_Click"
+                    HorizontalAlignment="Left"
+                    Margin="5"/>
+        </StackPanel>
+        
+        <DataGrid x:Name="DG"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True" Grid.Row="1">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Border Background="{Binding Статусы.Цвет}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Название" Binding="{Binding Название}"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Статусы.НазваниеСтатуса}"/>
+                <DataGridTextColumn Header="Коментарий" Binding="{Binding КомментарийПодЗадание}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="EmpBtn"
+                                    Content="Исполнители"
+                                    Click="EmpBtn_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="UpTaskBtn"
+                                    Content="Изменить"
+                                    Click="UpTaskBtn_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="DelTaskBtn"
+                                    Content="Удалить"
+                                    Click="DelTaskBtn_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="709b89ab4d4645b384861d6ab098f5aa" Name="Diagram1">
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.Задания" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.Клиенты" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.Отрасли" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.ПодЗадачи" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.Сотрудники" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.СписокИсполнителей" Width="1.5" PointX="5.25" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ИнформационаяБазаModel.Статусы" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_Задания_Клиенты" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_Задания_Отрасли" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_Задания_Статусы" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_СписокИсполнителей_Задания" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_Сотрудники_Отрасли" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_ПодЗадачи_Статусы" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_СписокИсполнителей_ПодЗадачи" ManuallyRouted="false" />
+        <AssociationConnector Association="ИнформационаяБазаModel.FK_СписокИсполнителей_Сотрудники" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
